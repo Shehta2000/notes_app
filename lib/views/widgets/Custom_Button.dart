@@ -7,7 +7,6 @@ class CustomBotton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      alignment: Alignment.center,
       height: 50,
       width: MediaQuery.of(context).size.width,
       decoration: BoxDecoration(
